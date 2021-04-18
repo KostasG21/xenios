@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-=========================================
-Xenios - asohelenica.com.co
-=========================================
+=============================================================
+Xenios - `asohelenica.com.co <https://asohelenica.com.co>`_
+=============================================================
 
 
 Bienvenido a la documentación de Xenios!

@@ -27,3 +27,6 @@ Tablas
 La tabla Posts2
 ------------------------------------------------
 Es la tabla principal para la administración de los posts.
+Ir a asohelenica.com.co `a link`_.
+
+.. _a link: https://asohelenica.com.co/
