@@ -150,7 +150,7 @@ latex_elements = {
         \fancyfoot[R]{\ifthenelse{\isodd{\value{page}}}{{\tiny Meher Krishna Patel} }{\href{http://pythondsp.readthedocs.io/en/latest/pythondsp/toc.html}{\tiny PythonDSP}}}
 
         %%% Alternating Footer for two side
-        %\fancyfoot[RO, RE]{\scriptsize foQus}
+        %\fancyfoot[RO, RE]{\scriptsize Xenios}
 
         %%% page number
         \fancyfoot[CO, CE]{\thepage}
@@ -185,18 +185,18 @@ latex_elements = {
             \centering
 
             \vspace*{40mm} %%% * is used to give space from top
-            \textbf{\Huge {Manual del Usuario para foQus}}
+            \textbf{\Huge {Manual del Usuario para Xenios}}
 
             \vspace{0mm}
             \begin{figure}[!h]
                 \centering
-                \includegraphics[scale=0.3]{logo_xenios.png}
+                \includegraphics[scale=0.5]{_static/logo_xenios.png}
             \end{figure}
 
             \vspace{0mm}
-            \Large \textbf{{foQus}}
+            \Large \textbf{{xenios}}
 
-            \small Created on : Abril, 2020
+            \small Created on : Abril, 2021
 
             \vspace*{0mm}
             \small  Last updated : \MonthYearFormat\today
