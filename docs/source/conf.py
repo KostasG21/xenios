@@ -185,7 +185,7 @@ latex_elements = {
             \centering
 
             \vspace*{40mm} %%% * is used to give space from top
-            \textbf{\Huge {Manual del Usuario para Xenios}}
+            \textbf{\Huge {Manual del Administrador para Xenios}}
 
             \vspace{0mm}
             \begin{figure}[!h]

@@ -183,6 +183,6 @@ Entrando a la tabla **Comments** se visualizan:
 
 Los comentarios se pueden eliminar como los demás registros de las tablas, seleccionándolos y usando la acción Eliminar.
 
-
+|br| Desarrollo: `foQus Software <https://foqus.herokuapp.com/>`_
 
 
