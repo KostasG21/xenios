@@ -1,0 +1,32 @@
+.hatnote
+{
+    border-color: #c8c8c8 ;
+    border-style: solid ;
+    border-width: 1px ;
+    font-size: x-small ;
+    font-style: italic ;
+    margin-left: auto ;
+    margin-right: auto ;
+    padding: 3px 2em ;
+}
+.hatnote-gray { background-color: #e8e8e8 ; color: #000000 ; }
+.hatnote-yellow { background-color: #ffffe8 ; color: #000000 ; }
+.hatnote-red { background-color: #ffe8e8 ; color: #000000 ; }
+.hatnote-icon { height: 32px ; width: 32px ; }
+
+ .box-shadow {    
+	float: left;	
+	box-shadow: 5px 5px 5px #666666;
+}
+
+.drop-shadow {
+	float: right;
+}
+.drop-shadow img {	
+	filter: drop-shadow(5px 5px 5px #666666);
+	-webkit-filter: drop-shadow(5px 5px 5px #666666);
+}
+
+.clear-both {
+	clear: both;
+}

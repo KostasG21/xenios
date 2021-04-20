@@ -21,9 +21,9 @@ Temas para conocer Xenios
    :maxdepth: 2
    :caption: Contents:
 
-   admin
+   menu   
    posts
-   
+   admin
 
 Indices and tables
 ==================
