@@ -190,7 +190,7 @@ latex_elements = {
             \vspace{0mm}
             \begin{figure}[!h]
                 \centering
-                \includegraphics[scale=0.5]{_static/logo_xenios.png}
+                \includegraphics[scale=0.5]{logo_xenios.png}
             \end{figure}
 
             \vspace{0mm}
